@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+}
+
+img {
+    width: auto;
+    height: 600px;
+    border-radius: 10px;
+}
+
+.container {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
